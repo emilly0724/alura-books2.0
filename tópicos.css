@@ -1,0 +1,14 @@
+.tópicos {
+    background: var(--azul-degrade);
+     text-align: center;
+}
+
+.tópicos__titulo {
+   color: var(--branco);
+}
+
+.tópicos__lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
